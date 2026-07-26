@@ -1,0 +1,602 @@
+[
+  {
+    "quandary_id": "Q001",
+    "theme": "honesty",
+    "min_age": 11,
+    "quandary": "A close friend asked me to cover for something they did. Telling the truth would get them in real trouble, but staying silent feels like a lie. What should I do?"
+  },
+  {
+    "quandary_id": "Q002",
+    "theme": "integrity",
+    "min_age": 11,
+    "quandary": "Someone close to me is getting ahead by cheating, and they don't think it's a big deal. Calling it out feels right, but it would cost me the friendship. How do I weigh loyalty against honesty?"
+  },
+  {
+    "quandary_id": "Q003",
+    "theme": "grief",
+    "min_age": 11,
+    "quandary": "Someone I loved deeply died recently, and I feel angry — at fate, at heaven, at God, I'm not even sure. Is it wrong to feel this way, and how do I carry it?"
+  },
+  {
+    "quandary_id": "Q004",
+    "theme": "fairness",
+    "min_age": 11,
+    "quandary": "Some people around me get help and opportunities that others don't. It feels unfair, but maybe they need it more. How should I think about fairness here?"
+  },
+  {
+    "quandary_id": "Q005",
+    "theme": "courage",
+    "min_age": 11,
+    "quandary": "Everyone around me is going along with something I believe is wrong, and standing apart would make me an outsider. Should I speak up even if I stand alone?"
+  },
+  {
+    "quandary_id": "Q006",
+    "theme": "kindness",
+    "min_age": 11,
+    "quandary": "I pass someone who plainly needs help nearly every day. I'm only one person, and the need is so much bigger than me. Do I have a real responsibility to stop?"
+  },
+  {
+    "quandary_id": "Q007",
+    "theme": "honesty",
+    "min_age": 11,
+    "quandary": "Is it ever okay to tell a small lie to keep someone from being hurt? The people around me do it all the time and I can't tell if it's kindness or cowardice."
+  },
+  {
+    "quandary_id": "Q008",
+    "theme": "identity",
+    "min_age": 11,
+    "quandary": "There are parts of who I am that I keep hidden from people around me because I'm afraid of how they'd react. Is keeping them private a kind of dishonesty?"
+  },
+  {
+    "quandary_id": "Q009",
+    "theme": "loyalty",
+    "min_age": 11,
+    "quandary": "A friend told me a secret, but keeping it might let someone else get hurt. Do I protect my friend's trust or protect the person at risk?"
+  },
+  {
+    "quandary_id": "Q010",
+    "theme": "honesty",
+    "min_age": 11,
+    "quandary": "I found something valuable that someone clearly lost. No one would ever know if I kept it. Why should I return it, and what does that say about who I want to be?"
+  },
+  {
+    "quandary_id": "Q011",
+    "theme": "integrity",
+    "min_age": 11,
+    "quandary": "I was praised for something I didn't really do on my own. Owning up would be embarrassing and cost me the credit. Is staying quiet a kind of lie?"
+  },
+  {
+    "quandary_id": "Q012",
+    "theme": "judgment",
+    "min_age": 11,
+    "quandary": "Someone who wronged me before has clearly changed. Part of me still wants to hold it against them. How long should a past mistake define a person?"
+  },
+  {
+    "quandary_id": "Q013",
+    "theme": "envy",
+    "min_age": 11,
+    "quandary": "I keep resenting someone for the good things that come easily to them. The comparison is eating at me. How do I let it go?"
+  },
+  {
+    "quandary_id": "Q014",
+    "theme": "anger",
+    "min_age": 11,
+    "quandary": "Someone embarrassed me in front of others and I badly want to get back at them. Is wanting that wrong, and what do I do with the feeling?"
+  },
+  {
+    "quandary_id": "Q015",
+    "theme": "gratitude",
+    "min_age": 11,
+    "quandary": "I have a lot, and yet I always seem to want more. Is that restlessness wrong, or just human — and how do I find contentment?"
+  },
+  {
+    "quandary_id": "Q016",
+    "theme": "forgiveness",
+    "min_age": 11,
+    "quandary": "A close friend broke my trust. Everyone says to forgive and move on, but I don't want to be a pushover. Can I forgive without letting them hurt me again?"
+  },
+  {
+    "quandary_id": "Q017",
+    "theme": "truth",
+    "min_age": 11,
+    "quandary": "I know someone broke a rule, but they did it for what they thought was a good reason. Do I report it, or is there room for mercy?"
+  },
+  {
+    "quandary_id": "Q018",
+    "theme": "belonging",
+    "min_age": 11,
+    "quandary": "My group leaves someone out, and going against that would risk my own place. Do I speak up for the person being excluded even if it costs me?"
+  },
+  {
+    "quandary_id": "Q019",
+    "theme": "conscience",
+    "min_age": 11,
+    "quandary": "Everyone around me is passing along something private and unkind about another person. Joining in is easy; refusing makes me stand out. What's the right move?"
+  },
+  {
+    "quandary_id": "Q020",
+    "theme": "promise",
+    "min_age": 11,
+    "quandary": "I made a promise that I now think was wrong to make. Do I keep my word, or break it to do what's right?"
+  },
+  {
+    "quandary_id": "Q021",
+    "theme": "generosity",
+    "min_age": 11,
+    "quandary": "I have more than someone who has very little. Nothing forces me to share. What, if anything, do I actually owe them?"
+  },
+  {
+    "quandary_id": "Q022",
+    "theme": "mercy",
+    "min_age": 11,
+    "quandary": "Someone who was unkind to me before is now the one struggling. Do I help them, or is it fair to let them manage on their own?"
+  },
+  {
+    "quandary_id": "Q023",
+    "theme": "temptation",
+    "min_age": 11,
+    "quandary": "There's a shortcut that would make things much easier for me, but it bends the rules a little. Where's the line between clever and dishonest?"
+  },
+  {
+    "quandary_id": "Q024",
+    "theme": "humility",
+    "min_age": 11,
+    "quandary": "I turned out to be right when others were wrong. I want to feel proud, but I don't want to be arrogant about it. How do I hold being right gracefully?"
+  },
+  {
+    "quandary_id": "Q025",
+    "theme": "obedience",
+    "min_age": 11,
+    "quandary": "Someone in charge told me to do something that feels wrong to me. Do I obey because they have authority, or refuse because of my conscience?"
+  },
+  {
+    "quandary_id": "Q026",
+    "theme": "contentment",
+    "min_age": 11,
+    "quandary": "Almost everyone around me seems to have more than I do. How do I make peace with my own portion without bitterness?"
+  },
+  {
+    "quandary_id": "Q027",
+    "theme": "forgiveness",
+    "min_age": 16,
+    "quandary": "Someone I trusted betrayed me badly. Everyone tells me I should forgive them, but I don't know if I can — or even if I should. What does forgiveness actually require of me?"
+  },
+  {
+    "quandary_id": "Q028",
+    "theme": "justice",
+    "min_age": 16,
+    "quandary": "I was wronged, and I now have a chance to get even. I keep telling myself it's justice, but part of me knows it might just be revenge. How do I tell the difference?"
+  },
+  {
+    "quandary_id": "Q029",
+    "theme": "duty",
+    "min_age": 16,
+    "quandary": "My family expects me to carry on a tradition I'm no longer sure I believe in. Do I owe them obedience, or do I owe myself honesty?"
+  },
+  {
+    "quandary_id": "Q030",
+    "theme": "identity",
+    "min_age": 16,
+    "quandary": "I've been living a kind of double life to keep peace with my family. The longer it goes, the heavier it gets. How long can I keep dividing myself like this?"
+  },
+  {
+    "quandary_id": "Q031",
+    "theme": "conscience",
+    "min_age": 16,
+    "quandary": "I witnessed something wrong, and there's quiet pressure on me to stay silent about it. Do I speak up knowing it will turn people against me?"
+  },
+  {
+    "quandary_id": "Q032",
+    "theme": "loyalty",
+    "min_age": 16,
+    "quandary": "A friend is asking me to lie for them, and this time it could have real consequences for someone else. How far does loyalty go before it becomes complicity?"
+  },
+  {
+    "quandary_id": "Q033",
+    "theme": "autonomy",
+    "min_age": 16,
+    "quandary": "I'm drawn to a path my faith community clearly disapproves of. Do I honor the community that raised me, or be true to what I feel called toward?"
+  },
+  {
+    "quandary_id": "Q034",
+    "theme": "reconciliation",
+    "min_age": 16,
+    "quandary": "I'm estranged from a family member and neither of us will reach out. Is making the first move weakness, or the braver thing?"
+  },
+  {
+    "quandary_id": "Q035",
+    "theme": "doubt",
+    "min_age": 16,
+    "quandary": "I'm questioning the faith I was raised in, and it scares me. Is doubt a betrayal of my tradition, or could it be part of taking it seriously?"
+  },
+  {
+    "quandary_id": "Q036",
+    "theme": "responsibility",
+    "min_age": 16,
+    "quandary": "I caused harm that I could probably hide. Owning it would cost me a lot. Is confession worth the price when no one would otherwise know?"
+  },
+  {
+    "quandary_id": "Q037",
+    "theme": "courage",
+    "min_age": 16,
+    "quandary": "I believe something most people around me don't, and saying it out loud could cost me friends. Is silence keeping the peace, or just cowardice?"
+  },
+  {
+    "quandary_id": "Q038",
+    "theme": "honesty",
+    "min_age": 16,
+    "quandary": "I'm caught between protecting someone I care about and telling the truth in a matter that's serious. Which loyalty comes first?"
+  },
+  {
+    "quandary_id": "Q039",
+    "theme": "temptation",
+    "min_age": 16,
+    "quandary": "I'm drawn to something exciting that I could only have by deceiving someone who trusts me. How do I weigh my own desire against their trust?"
+  },
+  {
+    "quandary_id": "Q040",
+    "theme": "judgment",
+    "min_age": 16,
+    "quandary": "I keep judging someone harshly for choices I don't really understand. How do I tell the difference between moral clarity and plain prejudice?"
+  },
+  {
+    "quandary_id": "Q041",
+    "theme": "vocation",
+    "min_age": 18,
+    "quandary": "I've been offered a prestigious, well-paid job that quietly conflicts with my deepest values. Do I take it and tell myself I'll do good from the inside, or walk away?"
+  },
+  {
+    "quandary_id": "Q042",
+    "theme": "honesty",
+    "min_age": 18,
+    "quandary": "Someone I love is dying and keeps asking me a question I could answer honestly or answer gently. Is a comforting half-truth ever the more loving choice?"
+  },
+  {
+    "quandary_id": "Q043",
+    "theme": "responsibility",
+    "min_age": 18,
+    "quandary": "My work supports my family but I've come to believe it causes real harm in the world. How do I weigh providing for the people I love against the cost to others?"
+  },
+  {
+    "quandary_id": "Q044",
+    "theme": "mercy",
+    "min_age": 18,
+    "quandary": "A person who hurt my family years ago is now suffering and alone, and only I am in a position to help them. Does mercy ask me to, even when justice says they don't deserve it?"
+  },
+  {
+    "quandary_id": "Q045",
+    "theme": "work",
+    "min_age": 18,
+    "quandary": "I work for an organization whose values I've come to reject. Do I stay and try to change it from within, or is staying its own kind of compromise?"
+  },
+  {
+    "quandary_id": "Q046",
+    "theme": "conscience",
+    "min_age": 18,
+    "quandary": "I've discovered serious wrongdoing where I work. Reporting it could end careers, maybe my own. Is speaking up an act of integrity or just self-destruction?"
+  },
+  {
+    "quandary_id": "Q047",
+    "theme": "wealth",
+    "min_age": 18,
+    "quandary": "I have more than I need while others go without. How much of what I've earned am I actually obligated to give away?"
+  },
+  {
+    "quandary_id": "Q048",
+    "theme": "charity",
+    "min_age": 18,
+    "quandary": "Day after day I pass someone asking for help, and I never know whether stopping helps or just eases my own conscience. What does real charity ask of me here?"
+  },
+  {
+    "quandary_id": "Q049",
+    "theme": "compassion",
+    "min_age": 18,
+    "quandary": "Someone I love is caught in addiction. I can't tell anymore where support ends and enabling begins. How do I love them without losing myself?"
+  },
+  {
+    "quandary_id": "Q050",
+    "theme": "autonomy",
+    "min_age": 18,
+    "quandary": "Someone I love wants to refuse further treatment and let their suffering end. Everything in me wants them to fight. Do I honor their wishes or my own grief?"
+  },
+  {
+    "quandary_id": "Q051",
+    "theme": "forgiveness",
+    "min_age": 18,
+    "quandary": "I'm wrestling with whether to forgive a parent who hurt me. They may never change. Could forgiving them be less about them and more about my own freedom?"
+  },
+  {
+    "quandary_id": "Q052",
+    "theme": "parenting",
+    "min_age": 18,
+    "quandary": "There are painful truths about the world, and about our family, that a child in my care will eventually face. How honest should I be, and when?"
+  },
+  {
+    "quandary_id": "Q053",
+    "theme": "trust",
+    "min_age": 18,
+    "quandary": "I'm responsible for someone and I could watch over them closely or give them room to make their own mistakes. Where's the line between care and control?"
+  },
+  {
+    "quandary_id": "Q054",
+    "theme": "marriage",
+    "min_age": 18,
+    "quandary": "A bond that once meant everything has grown hollow. Do I stay out of duty and the promise I made, or leave in honesty about what's gone?"
+  },
+  {
+    "quandary_id": "Q055",
+    "theme": "conscience",
+    "min_age": 18,
+    "quandary": "I've been asked to carry out a policy I believe is unethical. Do I follow the role I agreed to, or refuse and accept the fallout?"
+  },
+  {
+    "quandary_id": "Q056",
+    "theme": "truth",
+    "min_age": 18,
+    "quandary": "I've learned something damning about a person I deeply admired. Exposing it would shatter how others see them. Do they deserve that, and do the others deserve to know?"
+  },
+  {
+    "quandary_id": "Q057",
+    "theme": "service",
+    "min_age": 18,
+    "quandary": "I feel pulled to give myself to others, yet my own life feels unfinished and unsteady. Do I have to have my house in order before I can serve?"
+  },
+  {
+    "quandary_id": "Q058",
+    "theme": "stewardship",
+    "min_age": 18,
+    "quandary": "My everyday habits quietly harm the earth, and changing them would cost me real comfort and money. How much am I obligated to sacrifice for something so diffuse?"
+  },
+  {
+    "quandary_id": "Q059",
+    "theme": "conviction",
+    "min_age": 18,
+    "quandary": "I keep wondering whether it's right for me to consume and use animals the way I do, given what I claim to believe about compassion. Am I living honestly?"
+  },
+  {
+    "quandary_id": "Q060",
+    "theme": "ambition",
+    "min_age": 18,
+    "quandary": "I'm chasing a kind of success that everyone admires, but I'm no longer sure my soul actually wants it. How do I tell the difference between calling and conditioning?"
+  },
+  {
+    "quandary_id": "Q061",
+    "theme": "loyalty",
+    "min_age": 18,
+    "quandary": "A close friend did something seriously wrong. Standing by them feels like loyalty; it also feels like condoning it. What does true friendship ask of me now?"
+  },
+  {
+    "quandary_id": "Q062",
+    "theme": "integrity",
+    "min_age": 18,
+    "quandary": "There's a chance to bend one rule to bring about a clearly good outcome. Do the ends justify it, or does breaking faith with the rule cost more than it's worth?"
+  },
+  {
+    "quandary_id": "Q063",
+    "theme": "justice",
+    "min_age": 18,
+    "quandary": "I could pursue justice against someone who wronged me, but doing so would also harm people who are innocent. How do I weigh being made right against the harm it spreads?"
+  },
+  {
+    "quandary_id": "Q064",
+    "theme": "honesty",
+    "min_age": 18,
+    "quandary": "Keeping a particular secret protects me but quietly wrongs someone else. Is my silence self-preservation, or is it a betrayal I'm dressing up as discretion?"
+  },
+  {
+    "quandary_id": "Q065",
+    "theme": "pride",
+    "min_age": 18,
+    "quandary": "I'd have to admit publicly that I was wrong, and it would cost me standing I've worked hard for. Is swallowing my pride humility, or just humiliation?"
+  },
+  {
+    "quandary_id": "Q066",
+    "theme": "sacrifice",
+    "min_age": 18,
+    "quandary": "I could give up something I love for someone who needs it more than I do. Nothing requires it of me. When does generosity become genuine sacrifice?"
+  },
+  {
+    "quandary_id": "Q067",
+    "theme": "boundaries",
+    "min_age": 18,
+    "quandary": "A relative leans on me so heavily that it's draining me. Stepping back feels selfish, but staying is wearing me down. Is a boundary a failure of love?"
+  },
+  {
+    "quandary_id": "Q068",
+    "theme": "fairness",
+    "min_age": 18,
+    "quandary": "I've benefited from advantages others around me never had. I didn't choose them, but I did keep them. What, in justice, do I owe?"
+  },
+  {
+    "quandary_id": "Q069",
+    "theme": "revenge",
+    "min_age": 18,
+    "quandary": "Everyone tells me I'm owed payback for what was done to me. Letting it go feels like weakness. Is releasing the debt strength or surrender?"
+  },
+  {
+    "quandary_id": "Q070",
+    "theme": "doubt",
+    "min_age": 18,
+    "quandary": "My prayers and practice have started to feel empty, like going through the motions. Do I keep showing up in hope it returns, or is that just self-deception?"
+  },
+  {
+    "quandary_id": "Q071",
+    "theme": "trust",
+    "min_age": 18,
+    "quandary": "Someone betrayed me once and now wants back in. Trusting again could be foolish — or it could be grace. How do I know which?"
+  },
+  {
+    "quandary_id": "Q072",
+    "theme": "displacement",
+    "min_age": 18,
+    "quandary": "I feel torn between the needs of my own community and the needs of a stranger from far away. Is it wrong to put my own people first?"
+  },
+  {
+    "quandary_id": "Q073",
+    "theme": "windfall",
+    "min_age": 18,
+    "quandary": "Money has come to me, but it traces back to something I find questionable. Keeping it would help my family. Does where it came from stain what I'd do with it?"
+  },
+  {
+    "quandary_id": "Q074",
+    "theme": "gossip",
+    "min_age": 18,
+    "quandary": "I know of someone's serious failing. Speaking up might warn others who could be hurt, but it would also expose and shame them. Where does the duty lie?"
+  },
+  {
+    "quandary_id": "Q075",
+    "theme": "humility",
+    "min_age": 18,
+    "quandary": "I've always been the one who gives and provides, and now I'm the one who needs help. Accepting it feels like failure. Why is receiving so much harder than giving?"
+  },
+  {
+    "quandary_id": "Q076",
+    "theme": "temptation",
+    "min_age": 18,
+    "quandary": "There's a real chance to get ahead by quietly compromising a principle I hold. No one would know but me. Is a private compromise still a compromise?"
+  },
+  {
+    "quandary_id": "Q077",
+    "theme": "reconciliation",
+    "min_age": 18,
+    "quandary": "I could make the first move toward someone who wronged me and never apologized. Why should I be the one to bend — and would doing so free me or diminish me?"
+  },
+  {
+    "quandary_id": "Q078",
+    "theme": "duty",
+    "min_age": 25,
+    "quandary": "I'm pulled between caring for an aging parent and a calling I feel I'm meant to pursue. Both feel like sacred duties and I cannot do both fully. How do I choose?"
+  },
+  {
+    "quandary_id": "Q079",
+    "theme": "vocation",
+    "min_age": 25,
+    "quandary": "I could leave a stable, secure life for uncertain work that feels far more meaningful. Is choosing meaning over security brave or just reckless?"
+  },
+  {
+    "quandary_id": "Q080",
+    "theme": "marriage",
+    "min_age": 25,
+    "quandary": "I'm being asked to commit fully to someone despite real doubts I can't quite name. Do I trust the doubts or trust the love?"
+  },
+  {
+    "quandary_id": "Q081",
+    "theme": "parenting",
+    "min_age": 28,
+    "quandary": "I want to raise my child within my own tradition, but I also want them to choose freely. Is passing on my faith a gift or an imposition?"
+  },
+  {
+    "quandary_id": "Q082",
+    "theme": "vocation",
+    "min_age": 30,
+    "quandary": "I've spent years building something I no longer believe in. Walking away would waste all of it and disrupt people who depend on me. Is it ever too late to change course honestly?"
+  },
+  {
+    "quandary_id": "Q083",
+    "theme": "reconciliation",
+    "min_age": 30,
+    "quandary": "A sibling and I haven't spoken in years, and the silence has hardened into habit. Someone has to bend first. Why shouldn't it be me?"
+  },
+  {
+    "quandary_id": "Q084",
+    "theme": "legacy",
+    "min_age": 30,
+    "quandary": "I've reached a point where I'm asking what I actually want to have stood for — and whether the way I'm living now reflects it at all. Where do I even begin?"
+  },
+  {
+    "quandary_id": "Q085",
+    "theme": "forgiveness",
+    "min_age": 35,
+    "quandary": "I've carried resentment toward someone for most of my adult life, and they will never apologize. They may never even know. Can I let it go for my own sake without it being a kind of surrender?"
+  },
+  {
+    "quandary_id": "Q086",
+    "theme": "betrayal",
+    "min_age": 35,
+    "quandary": "A partner was unfaithful, and I'm torn between the work of rebuilding and the dignity of leaving. How do I tell whether staying is love or fear?"
+  },
+  {
+    "quandary_id": "Q087",
+    "theme": "ambition",
+    "min_age": 35,
+    "quandary": "Success came, but it cost me the people I love. Now I have what I chased and not who I cherished. How do I reorder a life I built backwards?"
+  },
+  {
+    "quandary_id": "Q088",
+    "theme": "grief",
+    "min_age": 40,
+    "quandary": "Someone central to my life is gone, and the faith that used to comfort me now feels hollow. Is doubt a betrayal of my tradition, or part of it?"
+  },
+  {
+    "quandary_id": "Q089",
+    "theme": "mortality",
+    "min_age": 40,
+    "quandary": "I'm beginning to feel my own decline, and I keep counting the things I never did. How do I make peace with a life that's more behind me than ahead?"
+  },
+  {
+    "quandary_id": "Q090",
+    "theme": "estrangement",
+    "min_age": 40,
+    "quandary": "An adult child has cut me off, and I don't fully understand why. Do I keep reaching out and risk more rejection, or honor the distance they've asked for?"
+  },
+  {
+    "quandary_id": "Q091",
+    "theme": "regret",
+    "min_age": 45,
+    "quandary": "A choice I made decades ago still haunts me. I've changed since, but the harm was real. How do I forgive myself for something I can't undo?"
+  },
+  {
+    "quandary_id": "Q092",
+    "theme": "caregiving",
+    "min_age": 45,
+    "quandary": "Caring for a dying spouse is slowly breaking me, and I feel guilty even admitting it. Is it a betrayal of love to say I need help?"
+  },
+  {
+    "quandary_id": "Q093",
+    "theme": "legacy",
+    "min_age": 50,
+    "quandary": "Looking back, I made a serious choice that hurt people, and I've changed since. Can a person who did real wrong still be considered good, and how do I make peace with my past?"
+  },
+  {
+    "quandary_id": "Q094",
+    "theme": "fairness",
+    "min_age": 50,
+    "quandary": "I have to divide what I've built among people who will each feel it's unfair. There may be no truly even answer. How do I act justly when someone will be hurt either way?"
+  },
+  {
+    "quandary_id": "Q095",
+    "theme": "meaning",
+    "min_age": 55,
+    "quandary": "The work that gave my days their shape is over, and my sense of purpose left with it. Who am I now, and how do I begin again?"
+  },
+  {
+    "quandary_id": "Q096",
+    "theme": "repentance",
+    "min_age": 55,
+    "quandary": "I want to make amends to someone I wronged long ago, but reopening it might serve me more than them. Do I have the right to seek peace at their expense?"
+  },
+  {
+    "quandary_id": "Q097",
+    "theme": "mortality",
+    "min_age": 60,
+    "quandary": "I want to face my own death without fear, but I don't know how. What does my tradition ask of me in meeting the end with grace?"
+  },
+  {
+    "quandary_id": "Q098",
+    "theme": "wisdom",
+    "min_age": 60,
+    "quandary": "I've learned hard lessons I could pass on, but unasked-for advice often does more harm than good. When do I speak, and when do I hold my peace?"
+  },
+  {
+    "quandary_id": "Q099",
+    "theme": "surrender",
+    "min_age": 65,
+    "quandary": "I keep trying to steer the choices of people I love, and it's straining us. How do I let go of control without feeling I've abandoned them?"
+  },
+  {
+    "quandary_id": "Q100",
+    "theme": "acceptance",
+    "min_age": 70,
+    "quandary": "My life didn't unfold the way I once hoped. How do I make genuine peace with that, rather than just resigning myself to it?"
+  }
+]

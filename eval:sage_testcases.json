@@ -1,0 +1,3518 @@
+[
+  {
+    "case_id": "T001",
+    "profile_id": "P03",
+    "age": 15,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "islamic"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q001",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "A close friend asked me to cover for something they did. Telling the truth would get them in real trouble, but staying silent feels like a lie. What should I do?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 33:70-71",
+        "Qur'an 9:119"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 33:70-71",
+      "Qur'an 9:119"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T002",
+    "profile_id": "P04",
+    "age": 11,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q002",
+    "quandary_theme": "integrity",
+    "motif": "honesty",
+    "quandary": "Someone close to me is getting ahead by cheating, and they don't think it's a big deal. Calling it out feels right, but it would cost me the friendship. How do I weigh loyalty against honesty?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 224",
+        "Dhammapada 408"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 224",
+      "Dhammapada 408"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T003",
+    "profile_id": "P03",
+    "age": 15,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "islamic"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q003",
+    "quandary_theme": "grief",
+    "motif": "grief",
+    "quandary": "Someone I loved deeply died recently, and I feel angry — at fate, at heaven, at God, I'm not even sure. Is it wrong to feel this way, and how do I carry it?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:155-157",
+        "Qur'an 94:5-6"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:155-157",
+      "Qur'an 94:5-6"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T004",
+    "profile_id": "P04",
+    "age": 11,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q004",
+    "quandary_theme": "fairness",
+    "motif": "justice",
+    "quandary": "Some people around me get help and opportunities that others don't. It feels unfair, but maybe they need it more. How should I think about fairness here?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 201",
+        "Dhammapada 103-105"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 201",
+      "Dhammapada 103-105"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T005",
+    "profile_id": "P03",
+    "age": 15,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "islamic"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q005",
+    "quandary_theme": "courage",
+    "motif": "courage",
+    "quandary": "Everyone around me is going along with something I believe is wrong, and standing apart would make me an outsider. Should I speak up even if I stand alone?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 3:159",
+        "Qur'an 65:3"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 3:159",
+      "Qur'an 65:3"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T006",
+    "profile_id": "P04",
+    "age": 11,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q006",
+    "quandary_theme": "kindness",
+    "motif": "compassion",
+    "quandary": "I pass someone who plainly needs help nearly every day. I'm only one person, and the need is so much bigger than me. Do I have a real responsibility to stop?",
+    "expected_references": {
+      "buddhist": [
+        "Karaniya Metta Sutta (Sn 1.8)",
+        "Dhammapada 223"
+      ]
+    },
+    "expected_references_flat": [
+      "Karaniya Metta Sutta (Sn 1.8)",
+      "Dhammapada 223"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T007",
+    "profile_id": "P15",
+    "age": 30,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "christian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q007",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "Is it ever okay to tell a small lie to keep someone from being hurt? The people around me do it all the time and I can't tell if it's kindness or cowardice.",
+    "expected_references": {
+      "christian": [
+        "Ephesians 4:25",
+        "Proverbs 12:22"
+      ],
+      "norse": [
+        "Havamal 124-125",
+        "Havamal 46"
+      ]
+    },
+    "expected_references_flat": [
+      "Ephesians 4:25",
+      "Proverbs 12:22",
+      "Havamal 124-125",
+      "Havamal 46"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T008",
+    "profile_id": "P23",
+    "age": 87,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "islamic",
+      "norse"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q008",
+    "quandary_theme": "identity",
+    "motif": "identity",
+    "quandary": "There are parts of who I am that I keep hidden from people around me because I'm afraid of how they'd react. Is keeping them private a kind of dishonesty?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:256",
+        "Qur'an 13:28"
+      ],
+      "norse": [
+        "Havamal 27-28",
+        "Havamal 57"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:256",
+      "Qur'an 13:28",
+      "Havamal 27-28",
+      "Havamal 57"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T009",
+    "profile_id": "P19",
+    "age": 106,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "gandhian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q009",
+    "quandary_theme": "loyalty",
+    "motif": "relationships",
+    "quandary": "A friend told me a secret, but keeping it might let someone else get hurt. Do I protect my friend's trust or protect the person at risk?",
+    "expected_references": {
+      "gandhian": [
+        "Brahmacharya and family (autobiography)",
+        "Sarvodaya community"
+      ],
+      "norse": [
+        "Havamal 43-44",
+        "Havamal 119"
+      ]
+    },
+    "expected_references_flat": [
+      "Brahmacharya and family (autobiography)",
+      "Sarvodaya community",
+      "Havamal 43-44",
+      "Havamal 119"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T010",
+    "profile_id": "P27",
+    "age": 48,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "hindu",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q010",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "I found something valuable that someone clearly lost. No one would ever know if I kept it. Why should I return it, and what does that say about who I want to be?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 17.15",
+        "Bhagavad Gita 10.4-5"
+      ],
+      "taoist": [
+        "Tao Te Ching 81",
+        "Tao Te Ching 8"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 17.15",
+      "Bhagavad Gita 10.4-5",
+      "Tao Te Ching 81",
+      "Tao Te Ching 8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T011",
+    "profile_id": "P18",
+    "age": 46,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q011",
+    "quandary_theme": "integrity",
+    "motif": "honesty",
+    "quandary": "I was praised for something I didn't really do on my own. Owning up would be embarrassing and cost me the credit. Is staying quiet a kind of lie?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 224",
+        "Dhammapada 408"
+      ],
+      "teresan": [
+        "Sincerity in small things",
+        "Works of mercy"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 224",
+      "Dhammapada 408",
+      "Sincerity in small things",
+      "Works of mercy"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T012",
+    "profile_id": "P10",
+    "age": 45,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "teresan"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q012",
+    "quandary_theme": "judgment",
+    "motif": "relationships",
+    "quandary": "Someone who wronged me before has clearly changed. Part of me still wants to hold it against them. How long should a past mistake define a person?",
+    "expected_references": {
+      "teresan": [
+        "Love begins at home",
+        "Tenderness toward the unwanted"
+      ]
+    },
+    "expected_references_flat": [
+      "Love begins at home",
+      "Tenderness toward the unwanted"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T013",
+    "profile_id": "P13",
+    "age": 35,
+    "gender": "transgender",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "norse"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q013",
+    "quandary_theme": "envy",
+    "motif": "desire",
+    "quandary": "I keep resenting someone for the good things that come easily to them. The comparison is eating at me. How do I let it go?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.62-63",
+        "Bhagavad Gita 2.55-57"
+      ],
+      "norse": [
+        "Havamal 10-11",
+        "Havamal 75"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.62-63",
+      "Bhagavad Gita 2.55-57",
+      "Havamal 10-11",
+      "Havamal 75"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T014",
+    "profile_id": "P24",
+    "age": 94,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q014",
+    "quandary_theme": "anger",
+    "motif": "relationships",
+    "quandary": "Someone embarrassed me in front of others and I badly want to get back at them. Is wanting that wrong, and what do I do with the feeling?",
+    "expected_references": {
+      "jewish": [
+        "Ruth 1:16-17",
+        "Exodus 20:12"
+      ],
+      "aboriginal": [
+        "Kinship and skin systems",
+        "Obligations to Elders and kin"
+      ]
+    },
+    "expected_references_flat": [
+      "Ruth 1:16-17",
+      "Exodus 20:12",
+      "Kinship and skin systems",
+      "Obligations to Elders and kin"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T015",
+    "profile_id": "P25",
+    "age": 80,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "norse",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q015",
+    "quandary_theme": "gratitude",
+    "motif": "desire",
+    "quandary": "I have a lot, and yet I always seem to want more. Is that restlessness wrong, or just human — and how do I find contentment?",
+    "expected_references": {
+      "norse": [
+        "Havamal 10-11",
+        "Havamal 75"
+      ],
+      "buddhist": [
+        "Dhammapada 204",
+        "Dhammapada 251"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 10-11",
+      "Havamal 75",
+      "Dhammapada 204",
+      "Dhammapada 251"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T016",
+    "profile_id": "P06",
+    "age": 87,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "taoist"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q016",
+    "quandary_theme": "forgiveness",
+    "motif": "forgiveness",
+    "quandary": "A close friend broke my trust. Everyone says to forgive and move on, but I don't want to be a pushover. Can I forgive without letting them hurt me again?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 49",
+        "Tao Te Ching 63"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 49",
+      "Tao Te Ching 63"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T017",
+    "profile_id": "P16",
+    "age": 50,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "taoist",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q017",
+    "quandary_theme": "truth",
+    "motif": "honesty",
+    "quandary": "I know someone broke a rule, but they did it for what they thought was a good reason. Do I report it, or is there room for mercy?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 81",
+        "Tao Te Ching 8"
+      ],
+      "jewish": [
+        "Talmud, Shabbat 31a",
+        "Leviticus 19:11"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 81",
+      "Tao Te Ching 8",
+      "Talmud, Shabbat 31a",
+      "Leviticus 19:11"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T018",
+    "profile_id": "P01",
+    "age": 92,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "hindu"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q018",
+    "quandary_theme": "belonging",
+    "motif": "identity",
+    "quandary": "My group leaves someone out, and going against that would risk my own place. Do I speak up for the person being excluded even if it costs me?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.20",
+        "Bhagavad Gita 18.63"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.20",
+      "Bhagavad Gita 18.63"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T019",
+    "profile_id": "P26",
+    "age": 84,
+    "gender": "female",
+    "relationship": "disciple",
+    "traditions": [
+      "christian",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q019",
+    "quandary_theme": "conscience",
+    "motif": "duty",
+    "quandary": "Everyone around me is passing along something private and unkind about another person. Joining in is easy; refusing makes me stand out. What's the right move?",
+    "expected_references": {
+      "christian": [
+        "Colossians 3:23",
+        "Luke 9:62"
+      ],
+      "taoist": [
+        "Tao Te Ching 37",
+        "Tao Te Ching 2"
+      ]
+    },
+    "expected_references_flat": [
+      "Colossians 3:23",
+      "Luke 9:62",
+      "Tao Te Ching 37",
+      "Tao Te Ching 2"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T020",
+    "profile_id": "P11",
+    "age": 24,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "norse",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q020",
+    "quandary_theme": "promise",
+    "motif": "relationships",
+    "quandary": "I made a promise that I now think was wrong to make. Do I keep my word, or break it to do what's right?",
+    "expected_references": {
+      "norse": [
+        "Havamal 43-44",
+        "Havamal 119"
+      ],
+      "teresan": [
+        "Love begins at home",
+        "Tenderness toward the unwanted"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 43-44",
+      "Havamal 119",
+      "Love begins at home",
+      "Tenderness toward the unwanted"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T021",
+    "profile_id": "P03",
+    "age": 15,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "islamic"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q021",
+    "quandary_theme": "generosity",
+    "motif": "compassion",
+    "quandary": "I have more than someone who has very little. Nothing forces me to share. What, if anything, do I actually owe them?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:177",
+        "Qur'an 76:8-9"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:177",
+      "Qur'an 76:8-9"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T022",
+    "profile_id": "P20",
+    "age": 100,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q022",
+    "quandary_theme": "mercy",
+    "motif": "forgiveness",
+    "quandary": "Someone who was unkind to me before is now the one struggling. Do I help them, or is it fair to let them manage on their own?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 16.1-3",
+        "Bhagavad Gita 12.13-14"
+      ],
+      "teresan": [
+        "Works of mercy (Missionaries of Charity)",
+        "Nobel Lecture (1979)"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 16.1-3",
+      "Bhagavad Gita 12.13-14",
+      "Works of mercy (Missionaries of Charity)",
+      "Nobel Lecture (1979)"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T023",
+    "profile_id": "P30",
+    "age": 91,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "teresan",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q023",
+    "quandary_theme": "temptation",
+    "motif": "desire",
+    "quandary": "There's a shortcut that would make things much easier for me, but it bends the rules a little. Where's the line between clever and dishonest?",
+    "expected_references": {
+      "teresan": [
+        "Holy poverty / simplicity",
+        "Detachment for the sake of love"
+      ],
+      "jewish": [
+        "Pirkei Avot 4:1",
+        "Ecclesiastes 5:9-10"
+      ]
+    },
+    "expected_references_flat": [
+      "Holy poverty / simplicity",
+      "Detachment for the sake of love",
+      "Pirkei Avot 4:1",
+      "Ecclesiastes 5:9-10"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T024",
+    "profile_id": "P02",
+    "age": 43,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q024",
+    "quandary_theme": "humility",
+    "motif": "humility",
+    "quandary": "I turned out to be right when others were wrong. I want to feel proud, but I don't want to be arrogant about it. How do I hold being right gracefully?",
+    "expected_references": {
+      "jewish": [
+        "Numbers 12:3",
+        "Micah 6:8"
+      ]
+    },
+    "expected_references_flat": [
+      "Numbers 12:3",
+      "Micah 6:8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T025",
+    "profile_id": "P09",
+    "age": 68,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Gandhian thought"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q025",
+    "quandary_theme": "obedience",
+    "motif": "duty",
+    "quandary": "Someone in charge told me to do something that feels wrong to me. Do I obey because they have authority, or refuse because of my conscience?",
+    "expected_references": {
+      "gandhian": [
+        "Anasakti Yoga (Gita According to Gandhi)",
+        "Swadharma and selfless action"
+      ]
+    },
+    "expected_references_flat": [
+      "Anasakti Yoga (Gita According to Gandhi)",
+      "Swadharma and selfless action"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T026",
+    "profile_id": "P21",
+    "age": 23,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "taoist",
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Gandhian thought"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q026",
+    "quandary_theme": "contentment",
+    "motif": "desire",
+    "quandary": "Almost everyone around me seems to have more than I do. How do I make peace with my own portion without bitterness?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 44",
+        "Tao Te Ching 46"
+      ],
+      "gandhian": [
+        "Aparigraha (non-possession)",
+        "Voluntary simplicity (Experiments with Truth)"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 44",
+      "Tao Te Ching 46",
+      "Aparigraha (non-possession)",
+      "Voluntary simplicity (Experiments with Truth)"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T027",
+    "profile_id": "P20",
+    "age": 100,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q027",
+    "quandary_theme": "forgiveness",
+    "motif": "forgiveness",
+    "quandary": "Someone I trusted betrayed me badly. Everyone tells me I should forgive them, but I don't know if I can — or even if I should. What does forgiveness actually require of me?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 16.1-3",
+        "Bhagavad Gita 12.13-14"
+      ],
+      "teresan": [
+        "Works of mercy (Missionaries of Charity)",
+        "Nobel Lecture (1979)"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 16.1-3",
+      "Bhagavad Gita 12.13-14",
+      "Works of mercy (Missionaries of Charity)",
+      "Nobel Lecture (1979)"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T028",
+    "profile_id": "P30",
+    "age": 91,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "teresan",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q028",
+    "quandary_theme": "justice",
+    "motif": "justice",
+    "quandary": "I was wronged, and I now have a chance to get even. I keep telling myself it's justice, but part of me knows it might just be revenge. How do I tell the difference?",
+    "expected_references": {
+      "teresan": [
+        "Service to the poorest of the poor",
+        "Nobel Lecture (1979)"
+      ],
+      "jewish": [
+        "Deuteronomy 16:20",
+        "Mishnah Sanhedrin 4:5"
+      ]
+    },
+    "expected_references_flat": [
+      "Service to the poorest of the poor",
+      "Nobel Lecture (1979)",
+      "Deuteronomy 16:20",
+      "Mishnah Sanhedrin 4:5"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T029",
+    "profile_id": "P02",
+    "age": 43,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q029",
+    "quandary_theme": "duty",
+    "motif": "duty",
+    "quandary": "My family expects me to carry on a tradition I'm no longer sure I believe in. Do I owe them obedience, or do I owe myself honesty?",
+    "expected_references": {
+      "jewish": [
+        "Pirkei Avot 2:16",
+        "Micah 6:8"
+      ]
+    },
+    "expected_references_flat": [
+      "Pirkei Avot 2:16",
+      "Micah 6:8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T030",
+    "profile_id": "P09",
+    "age": 68,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Gandhian thought"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q030",
+    "quandary_theme": "identity",
+    "motif": "identity",
+    "quandary": "I've been living a kind of double life to keep peace with my family. The longer it goes, the heavier it gets. How long can I keep dividing myself like this?",
+    "expected_references": {
+      "gandhian": [
+        "Conscience over authority (Hind Swaraj)",
+        "Inner voice / antaryamin"
+      ]
+    },
+    "expected_references_flat": [
+      "Conscience over authority (Hind Swaraj)",
+      "Inner voice / antaryamin"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T031",
+    "profile_id": "P21",
+    "age": 23,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "taoist",
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Gandhian thought"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q031",
+    "quandary_theme": "conscience",
+    "motif": "duty",
+    "quandary": "I witnessed something wrong, and there's quiet pressure on me to stay silent about it. Do I speak up knowing it will turn people against me?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 37",
+        "Tao Te Ching 2"
+      ],
+      "gandhian": [
+        "Anasakti Yoga (Gita According to Gandhi)",
+        "Swadharma and selfless action"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 37",
+      "Tao Te Ching 2",
+      "Anasakti Yoga (Gita According to Gandhi)",
+      "Swadharma and selfless action"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T032",
+    "profile_id": "P22",
+    "age": 58,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "christian",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q032",
+    "quandary_theme": "loyalty",
+    "motif": "relationships",
+    "quandary": "A friend is asking me to lie for them, and this time it could have real consequences for someone else. How far does loyalty go before it becomes complicity?",
+    "expected_references": {
+      "christian": [
+        "1 Corinthians 13:4-7",
+        "Ephesians 6:1-4"
+      ],
+      "buddhist": [
+        "Sigalovada Sutta (DN 31)",
+        "Dhammapada 197-199"
+      ]
+    },
+    "expected_references_flat": [
+      "1 Corinthians 13:4-7",
+      "Ephesians 6:1-4",
+      "Sigalovada Sutta (DN 31)",
+      "Dhammapada 197-199"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T033",
+    "profile_id": "P08",
+    "age": 59,
+    "gender": "transgender",
+    "relationship": "novice",
+    "traditions": [
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q033",
+    "quandary_theme": "autonomy",
+    "motif": "identity",
+    "quandary": "I'm drawn to a path my faith community clearly disapproves of. Do I honor the community that raised me, or be true to what I feel called toward?",
+    "expected_references": {
+      "aboriginal": [
+        "Belonging to Country and kin",
+        "The Dreaming (Tjukurpa)"
+      ]
+    },
+    "expected_references_flat": [
+      "Belonging to Country and kin",
+      "The Dreaming (Tjukurpa)"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T034",
+    "profile_id": "P05",
+    "age": 108,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "christian"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q034",
+    "quandary_theme": "reconciliation",
+    "motif": "forgiveness",
+    "quandary": "I'm estranged from a family member and neither of us will reach out. Is making the first move weakness, or the braver thing?",
+    "expected_references": {
+      "christian": [
+        "Matthew 18:21-22",
+        "Colossians 3:13"
+      ]
+    },
+    "expected_references_flat": [
+      "Matthew 18:21-22",
+      "Colossians 3:13"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T035",
+    "profile_id": "P12",
+    "age": 83,
+    "gender": "nonbinary",
+    "relationship": "novice",
+    "traditions": [
+      "islamic",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q035",
+    "quandary_theme": "doubt",
+    "motif": "identity",
+    "quandary": "I'm questioning the faith I was raised in, and it scares me. Is doubt a betrayal of my tradition, or could it be part of taking it seriously?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:256",
+        "Qur'an 13:28"
+      ],
+      "taoist": [
+        "Tao Te Ching 71",
+        "Tao Te Ching 33"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:256",
+      "Qur'an 13:28",
+      "Tao Te Ching 71",
+      "Tao Te Ching 33"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T036",
+    "profile_id": "P07",
+    "age": 102,
+    "gender": "nonbinary",
+    "relationship": "disciple",
+    "traditions": [
+      "norse"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q036",
+    "quandary_theme": "responsibility",
+    "motif": "duty",
+    "quandary": "I caused harm that I could probably hide. Owning it would cost me a lot. Is confession worth the price when no one would otherwise know?",
+    "expected_references": {
+      "norse": [
+        "Havamal 76-77",
+        "Gylfaginning (Prose Edda) 51"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 76-77",
+      "Gylfaginning (Prose Edda) 51"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T037",
+    "profile_id": "P28",
+    "age": 22,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "gandhian",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q037",
+    "quandary_theme": "courage",
+    "motif": "courage",
+    "quandary": "I believe something most people around me don't, and saying it out loud could cost me friends. Is silence keeping the peace, or just cowardice?",
+    "expected_references": {
+      "gandhian": [
+        "Non-violence of the strong (Young India)",
+        "Satyagraha as soul-force"
+      ],
+      "jewish": [
+        "Joshua 1:9",
+        "Psalm 27:1"
+      ]
+    },
+    "expected_references_flat": [
+      "Non-violence of the strong (Young India)",
+      "Satyagraha as soul-force",
+      "Joshua 1:9",
+      "Psalm 27:1"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T038",
+    "profile_id": "P29",
+    "age": 82,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q038",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "I'm caught between protecting someone I care about and telling the truth in a matter that's serious. Which loyalty comes first?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 224",
+        "Dhammapada 408"
+      ],
+      "aboriginal": [
+        "Truth-telling within kinship",
+        "The Dreaming (Tjukurpa)"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 224",
+      "Dhammapada 408",
+      "Truth-telling within kinship",
+      "The Dreaming (Tjukurpa)"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T039",
+    "profile_id": "P14",
+    "age": 50,
+    "gender": "male",
+    "relationship": "disciple",
+    "traditions": [
+      "jewish",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q039",
+    "quandary_theme": "temptation",
+    "motif": "desire",
+    "quandary": "I'm drawn to something exciting that I could only have by deceiving someone who trusts me. How do I weigh my own desire against their trust?",
+    "expected_references": {
+      "jewish": [
+        "Pirkei Avot 4:1",
+        "Ecclesiastes 5:9-10"
+      ],
+      "buddhist": [
+        "Dhammapada 204",
+        "Dhammapada 251"
+      ]
+    },
+    "expected_references_flat": [
+      "Pirkei Avot 4:1",
+      "Ecclesiastes 5:9-10",
+      "Dhammapada 204",
+      "Dhammapada 251"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T040",
+    "profile_id": "P17",
+    "age": 42,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "aboriginal",
+      "islamic"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings",
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q040",
+    "quandary_theme": "judgment",
+    "motif": "relationships",
+    "quandary": "I keep judging someone harshly for choices I don't really understand. How do I tell the difference between moral clarity and plain prejudice?",
+    "expected_references": {
+      "aboriginal": [
+        "Kinship and skin systems",
+        "Obligations to Elders and kin"
+      ],
+      "islamic": [
+        "Qur'an 17:23-24",
+        "Qur'an 31:14"
+      ]
+    },
+    "expected_references_flat": [
+      "Kinship and skin systems",
+      "Obligations to Elders and kin",
+      "Qur'an 17:23-24",
+      "Qur'an 31:14"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T041",
+    "profile_id": "P11",
+    "age": 24,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "norse",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q041",
+    "quandary_theme": "vocation",
+    "motif": "duty",
+    "quandary": "I've been offered a prestigious, well-paid job that quietly conflicts with my deepest values. Do I take it and tell myself I'll do good from the inside, or walk away?",
+    "expected_references": {
+      "norse": [
+        "Havamal 76-77",
+        "Gylfaginning (Prose Edda) 51"
+      ],
+      "teresan": [
+        "Vocation of charity (Missionaries of Charity)",
+        "Wholehearted service"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 76-77",
+      "Gylfaginning (Prose Edda) 51",
+      "Vocation of charity (Missionaries of Charity)",
+      "Wholehearted service"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T042",
+    "profile_id": "P21",
+    "age": 23,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "taoist",
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Gandhian thought"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q042",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "Someone I love is dying and keeps asking me a question I could answer honestly or answer gently. Is a comforting half-truth ever the more loving choice?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 81",
+        "Tao Te Ching 8"
+      ],
+      "gandhian": [
+        "Satya (The Story of My Experiments with Truth)",
+        "Truth as God"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 81",
+      "Tao Te Ching 8",
+      "Satya (The Story of My Experiments with Truth)",
+      "Truth as God"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T043",
+    "profile_id": "P28",
+    "age": 22,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "gandhian",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q043",
+    "quandary_theme": "responsibility",
+    "motif": "duty",
+    "quandary": "My work supports my family but I've come to believe it causes real harm in the world. How do I weigh providing for the people I love against the cost to others?",
+    "expected_references": {
+      "gandhian": [
+        "Anasakti Yoga (Gita According to Gandhi)",
+        "Swadharma and selfless action"
+      ],
+      "jewish": [
+        "Pirkei Avot 2:16",
+        "Micah 6:8"
+      ]
+    },
+    "expected_references_flat": [
+      "Anasakti Yoga (Gita According to Gandhi)",
+      "Swadharma and selfless action",
+      "Pirkei Avot 2:16",
+      "Micah 6:8"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T044",
+    "profile_id": "P25",
+    "age": 80,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "norse",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q044",
+    "quandary_theme": "mercy",
+    "motif": "forgiveness",
+    "quandary": "A person who hurt my family years ago is now suffering and alone, and only I am in a position to help them. Does mercy ask me to, even when justice says they don't deserve it?",
+    "expected_references": {
+      "norse": [
+        "Havamal 43-46",
+        "Havamal 121-124"
+      ],
+      "buddhist": [
+        "Dhammapada 3-5",
+        "Dhammapada 223"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 43-46",
+      "Havamal 121-124",
+      "Dhammapada 3-5",
+      "Dhammapada 223"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T045",
+    "profile_id": "P06",
+    "age": 87,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "taoist"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q045",
+    "quandary_theme": "work",
+    "motif": "duty",
+    "quandary": "I work for an organization whose values I've come to reject. Do I stay and try to change it from within, or is staying its own kind of compromise?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 37",
+        "Tao Te Ching 2"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 37",
+      "Tao Te Ching 2"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T046",
+    "profile_id": "P16",
+    "age": 50,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "taoist",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q046",
+    "quandary_theme": "conscience",
+    "motif": "duty",
+    "quandary": "I've discovered serious wrongdoing where I work. Reporting it could end careers, maybe my own. Is speaking up an act of integrity or just self-destruction?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 37",
+        "Tao Te Ching 2"
+      ],
+      "jewish": [
+        "Pirkei Avot 2:16",
+        "Micah 6:8"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 37",
+      "Tao Te Ching 2",
+      "Pirkei Avot 2:16",
+      "Micah 6:8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T047",
+    "profile_id": "P01",
+    "age": 92,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "hindu"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q047",
+    "quandary_theme": "wealth",
+    "motif": "desire",
+    "quandary": "I have more than I need while others go without. How much of what I've earned am I actually obligated to give away?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.62-63",
+        "Bhagavad Gita 2.55-57"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.62-63",
+      "Bhagavad Gita 2.55-57"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T048",
+    "profile_id": "P26",
+    "age": 84,
+    "gender": "female",
+    "relationship": "disciple",
+    "traditions": [
+      "christian",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q048",
+    "quandary_theme": "charity",
+    "motif": "compassion",
+    "quandary": "Day after day I pass someone asking for help, and I never know whether stopping helps or just eases my own conscience. What does real charity ask of me here?",
+    "expected_references": {
+      "christian": [
+        "Luke 10:25-37",
+        "Matthew 25:35-40"
+      ],
+      "taoist": [
+        "Tao Te Ching 67",
+        "Tao Te Ching 8"
+      ]
+    },
+    "expected_references_flat": [
+      "Luke 10:25-37",
+      "Matthew 25:35-40",
+      "Tao Te Ching 67",
+      "Tao Te Ching 8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T049",
+    "profile_id": "P11",
+    "age": 24,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "norse",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q049",
+    "quandary_theme": "compassion",
+    "motif": "compassion",
+    "quandary": "Someone I love is caught in addiction. I can't tell anymore where support ends and enabling begins. How do I love them without losing myself?",
+    "expected_references": {
+      "norse": [
+        "Havamal 3-4",
+        "Havamal 135"
+      ],
+      "teresan": [
+        "Love in action (Nobel Lecture, 1979)",
+        "Care for the dying and destitute"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 3-4",
+      "Havamal 135",
+      "Love in action (Nobel Lecture, 1979)",
+      "Care for the dying and destitute"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T050",
+    "profile_id": "P20",
+    "age": 100,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q050",
+    "quandary_theme": "autonomy",
+    "motif": "identity",
+    "quandary": "Someone I love wants to refuse further treatment and let their suffering end. Everything in me wants them to fight. Do I honor their wishes or my own grief?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.20",
+        "Bhagavad Gita 18.63"
+      ],
+      "teresan": [
+        "Serving Christ in the distressing disguise of the poor",
+        "Vocation of charity"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.20",
+      "Bhagavad Gita 18.63",
+      "Serving Christ in the distressing disguise of the poor",
+      "Vocation of charity"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T051",
+    "profile_id": "P30",
+    "age": 91,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "teresan",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q051",
+    "quandary_theme": "forgiveness",
+    "motif": "forgiveness",
+    "quandary": "I'm wrestling with whether to forgive a parent who hurt me. They may never change. Could forgiving them be less about them and more about my own freedom?",
+    "expected_references": {
+      "teresan": [
+        "Works of mercy (Missionaries of Charity)",
+        "Nobel Lecture (1979)"
+      ],
+      "jewish": [
+        "Talmud, Yoma 87a",
+        "Leviticus 19:18"
+      ]
+    },
+    "expected_references_flat": [
+      "Works of mercy (Missionaries of Charity)",
+      "Nobel Lecture (1979)",
+      "Talmud, Yoma 87a",
+      "Leviticus 19:18"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T052",
+    "profile_id": "P02",
+    "age": 43,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q052",
+    "quandary_theme": "parenting",
+    "motif": "relationships",
+    "quandary": "There are painful truths about the world, and about our family, that a child in my care will eventually face. How honest should I be, and when?",
+    "expected_references": {
+      "jewish": [
+        "Ruth 1:16-17",
+        "Exodus 20:12"
+      ]
+    },
+    "expected_references_flat": [
+      "Ruth 1:16-17",
+      "Exodus 20:12"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T053",
+    "profile_id": "P09",
+    "age": 68,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Gandhian thought"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q053",
+    "quandary_theme": "trust",
+    "motif": "relationships",
+    "quandary": "I'm responsible for someone and I could watch over them closely or give them room to make their own mistakes. Where's the line between care and control?",
+    "expected_references": {
+      "gandhian": [
+        "Brahmacharya and family (autobiography)",
+        "Sarvodaya community"
+      ]
+    },
+    "expected_references_flat": [
+      "Brahmacharya and family (autobiography)",
+      "Sarvodaya community"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T054",
+    "profile_id": "P21",
+    "age": 23,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "taoist",
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Gandhian thought"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q054",
+    "quandary_theme": "marriage",
+    "motif": "relationships",
+    "quandary": "A bond that once meant everything has grown hollow. Do I stay out of duty and the promise I made, or leave in honesty about what's gone?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 54",
+        "Tao Te Ching 18-19"
+      ],
+      "gandhian": [
+        "Brahmacharya and family (autobiography)",
+        "Sarvodaya community"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 54",
+      "Tao Te Ching 18-19",
+      "Brahmacharya and family (autobiography)",
+      "Sarvodaya community"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T055",
+    "profile_id": "P22",
+    "age": 58,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "christian",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q055",
+    "quandary_theme": "conscience",
+    "motif": "duty",
+    "quandary": "I've been asked to carry out a policy I believe is unethical. Do I follow the role I agreed to, or refuse and accept the fallout?",
+    "expected_references": {
+      "christian": [
+        "Colossians 3:23",
+        "Luke 9:62"
+      ],
+      "buddhist": [
+        "Dhammapada 166",
+        "Dhammapada 276"
+      ]
+    },
+    "expected_references_flat": [
+      "Colossians 3:23",
+      "Luke 9:62",
+      "Dhammapada 166",
+      "Dhammapada 276"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T056",
+    "profile_id": "P08",
+    "age": 59,
+    "gender": "transgender",
+    "relationship": "novice",
+    "traditions": [
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q056",
+    "quandary_theme": "truth",
+    "motif": "honesty",
+    "quandary": "I've learned something damning about a person I deeply admired. Exposing it would shatter how others see them. Do they deserve that, and do the others deserve to know?",
+    "expected_references": {
+      "aboriginal": [
+        "Truth-telling within kinship",
+        "The Dreaming (Tjukurpa)"
+      ]
+    },
+    "expected_references_flat": [
+      "Truth-telling within kinship",
+      "The Dreaming (Tjukurpa)"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T057",
+    "profile_id": "P05",
+    "age": 108,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "christian"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q057",
+    "quandary_theme": "service",
+    "motif": "compassion",
+    "quandary": "I feel pulled to give myself to others, yet my own life feels unfinished and unsteady. Do I have to have my house in order before I can serve?",
+    "expected_references": {
+      "christian": [
+        "Luke 10:25-37",
+        "Matthew 25:35-40"
+      ]
+    },
+    "expected_references_flat": [
+      "Luke 10:25-37",
+      "Matthew 25:35-40"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T058",
+    "profile_id": "P12",
+    "age": 83,
+    "gender": "nonbinary",
+    "relationship": "novice",
+    "traditions": [
+      "islamic",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q058",
+    "quandary_theme": "stewardship",
+    "motif": "compassion",
+    "quandary": "My everyday habits quietly harm the earth, and changing them would cost me real comfort and money. How much am I obligated to sacrifice for something so diffuse?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:177",
+        "Qur'an 76:8-9"
+      ],
+      "taoist": [
+        "Tao Te Ching 67",
+        "Tao Te Ching 8"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:177",
+      "Qur'an 76:8-9",
+      "Tao Te Ching 67",
+      "Tao Te Ching 8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T059",
+    "profile_id": "P07",
+    "age": 102,
+    "gender": "nonbinary",
+    "relationship": "disciple",
+    "traditions": [
+      "norse"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q059",
+    "quandary_theme": "conviction",
+    "motif": "duty",
+    "quandary": "I keep wondering whether it's right for me to consume and use animals the way I do, given what I claim to believe about compassion. Am I living honestly?",
+    "expected_references": {
+      "norse": [
+        "Havamal 76-77",
+        "Gylfaginning (Prose Edda) 51"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 76-77",
+      "Gylfaginning (Prose Edda) 51"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T060",
+    "profile_id": "P28",
+    "age": 22,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "gandhian",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q060",
+    "quandary_theme": "ambition",
+    "motif": "desire",
+    "quandary": "I'm chasing a kind of success that everyone admires, but I'm no longer sure my soul actually wants it. How do I tell the difference between calling and conditioning?",
+    "expected_references": {
+      "gandhian": [
+        "Aparigraha (non-possession)",
+        "Voluntary simplicity (Experiments with Truth)"
+      ],
+      "jewish": [
+        "Pirkei Avot 4:1",
+        "Ecclesiastes 5:9-10"
+      ]
+    },
+    "expected_references_flat": [
+      "Aparigraha (non-possession)",
+      "Voluntary simplicity (Experiments with Truth)",
+      "Pirkei Avot 4:1",
+      "Ecclesiastes 5:9-10"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T061",
+    "profile_id": "P29",
+    "age": 82,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q061",
+    "quandary_theme": "loyalty",
+    "motif": "relationships",
+    "quandary": "A close friend did something seriously wrong. Standing by them feels like loyalty; it also feels like condoning it. What does true friendship ask of me now?",
+    "expected_references": {
+      "buddhist": [
+        "Sigalovada Sutta (DN 31)",
+        "Dhammapada 197-199"
+      ],
+      "aboriginal": [
+        "Kinship and skin systems",
+        "Obligations to Elders and kin"
+      ]
+    },
+    "expected_references_flat": [
+      "Sigalovada Sutta (DN 31)",
+      "Dhammapada 197-199",
+      "Kinship and skin systems",
+      "Obligations to Elders and kin"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T062",
+    "profile_id": "P14",
+    "age": 50,
+    "gender": "male",
+    "relationship": "disciple",
+    "traditions": [
+      "jewish",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q062",
+    "quandary_theme": "integrity",
+    "motif": "honesty",
+    "quandary": "There's a chance to bend one rule to bring about a clearly good outcome. Do the ends justify it, or does breaking faith with the rule cost more than it's worth?",
+    "expected_references": {
+      "jewish": [
+        "Talmud, Shabbat 31a",
+        "Leviticus 19:11"
+      ],
+      "buddhist": [
+        "Dhammapada 224",
+        "Dhammapada 408"
+      ]
+    },
+    "expected_references_flat": [
+      "Talmud, Shabbat 31a",
+      "Leviticus 19:11",
+      "Dhammapada 224",
+      "Dhammapada 408"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T063",
+    "profile_id": "P17",
+    "age": 42,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "aboriginal",
+      "islamic"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings",
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q063",
+    "quandary_theme": "justice",
+    "motif": "justice",
+    "quandary": "I could pursue justice against someone who wronged me, but doing so would also harm people who are innocent. How do I weigh being made right against the harm it spreads?",
+    "expected_references": {
+      "aboriginal": [
+        "Customary law (the Dreaming)",
+        "Reciprocity and obligation"
+      ],
+      "islamic": [
+        "Qur'an 4:135",
+        "Qur'an 16:90"
+      ]
+    },
+    "expected_references_flat": [
+      "Customary law (the Dreaming)",
+      "Reciprocity and obligation",
+      "Qur'an 4:135",
+      "Qur'an 16:90"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T064",
+    "profile_id": "P15",
+    "age": 30,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "christian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q064",
+    "quandary_theme": "honesty",
+    "motif": "honesty",
+    "quandary": "Keeping a particular secret protects me but quietly wrongs someone else. Is my silence self-preservation, or is it a betrayal I'm dressing up as discretion?",
+    "expected_references": {
+      "christian": [
+        "Ephesians 4:25",
+        "Proverbs 12:22"
+      ],
+      "norse": [
+        "Havamal 124-125",
+        "Havamal 46"
+      ]
+    },
+    "expected_references_flat": [
+      "Ephesians 4:25",
+      "Proverbs 12:22",
+      "Havamal 124-125",
+      "Havamal 46"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T065",
+    "profile_id": "P23",
+    "age": 87,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "islamic",
+      "norse"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q065",
+    "quandary_theme": "pride",
+    "motif": "humility",
+    "quandary": "I'd have to admit publicly that I was wrong, and it would cost me standing I've worked hard for. Is swallowing my pride humility, or just humiliation?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 31:18",
+        "Qur'an 25:63"
+      ],
+      "norse": [
+        "Havamal 6",
+        "Havamal 27"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 31:18",
+      "Qur'an 25:63",
+      "Havamal 6",
+      "Havamal 27"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T066",
+    "profile_id": "P19",
+    "age": 106,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "gandhian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q066",
+    "quandary_theme": "sacrifice",
+    "motif": "compassion",
+    "quandary": "I could give up something I love for someone who needs it more than I do. Nothing requires it of me. When does generosity become genuine sacrifice?",
+    "expected_references": {
+      "gandhian": [
+        "Sarvodaya (welfare of all)",
+        "Daridranarayana (service to the poor)"
+      ],
+      "norse": [
+        "Havamal 3-4",
+        "Havamal 135"
+      ]
+    },
+    "expected_references_flat": [
+      "Sarvodaya (welfare of all)",
+      "Daridranarayana (service to the poor)",
+      "Havamal 3-4",
+      "Havamal 135"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T067",
+    "profile_id": "P27",
+    "age": 48,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "hindu",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q067",
+    "quandary_theme": "boundaries",
+    "motif": "relationships",
+    "quandary": "A relative leans on me so heavily that it's draining me. Stepping back feels selfish, but staying is wearing me down. Is a boundary a failure of love?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 1.28-37",
+        "Bhagavad Gita 6.5-6"
+      ],
+      "taoist": [
+        "Tao Te Ching 54",
+        "Tao Te Ching 18-19"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 1.28-37",
+      "Bhagavad Gita 6.5-6",
+      "Tao Te Ching 54",
+      "Tao Te Ching 18-19"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T068",
+    "profile_id": "P18",
+    "age": 46,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q068",
+    "quandary_theme": "fairness",
+    "motif": "justice",
+    "quandary": "I've benefited from advantages others around me never had. I didn't choose them, but I did keep them. What, in justice, do I owe?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 201",
+        "Dhammapada 103-105"
+      ],
+      "teresan": [
+        "Service to the poorest of the poor",
+        "Nobel Lecture (1979)"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 201",
+      "Dhammapada 103-105",
+      "Service to the poorest of the poor",
+      "Nobel Lecture (1979)"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T069",
+    "profile_id": "P10",
+    "age": 45,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "teresan"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q069",
+    "quandary_theme": "revenge",
+    "motif": "justice",
+    "quandary": "Everyone tells me I'm owed payback for what was done to me. Letting it go feels like weakness. Is releasing the debt strength or surrender?",
+    "expected_references": {
+      "teresan": [
+        "Service to the poorest of the poor",
+        "Nobel Lecture (1979)"
+      ]
+    },
+    "expected_references_flat": [
+      "Service to the poorest of the poor",
+      "Nobel Lecture (1979)"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T070",
+    "profile_id": "P13",
+    "age": 35,
+    "gender": "transgender",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "norse"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q070",
+    "quandary_theme": "doubt",
+    "motif": "identity",
+    "quandary": "My prayers and practice have started to feel empty, like going through the motions. Do I keep showing up in hope it returns, or is that just self-deception?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.20",
+        "Bhagavad Gita 18.63"
+      ],
+      "norse": [
+        "Havamal 27-28",
+        "Havamal 57"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.20",
+      "Bhagavad Gita 18.63",
+      "Havamal 27-28",
+      "Havamal 57"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T071",
+    "profile_id": "P24",
+    "age": 94,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q071",
+    "quandary_theme": "trust",
+    "motif": "relationships",
+    "quandary": "Someone betrayed me once and now wants back in. Trusting again could be foolish — or it could be grace. How do I know which?",
+    "expected_references": {
+      "jewish": [
+        "Ruth 1:16-17",
+        "Exodus 20:12"
+      ],
+      "aboriginal": [
+        "Kinship and skin systems",
+        "Obligations to Elders and kin"
+      ]
+    },
+    "expected_references_flat": [
+      "Ruth 1:16-17",
+      "Exodus 20:12",
+      "Kinship and skin systems",
+      "Obligations to Elders and kin"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T072",
+    "profile_id": "P25",
+    "age": 80,
+    "gender": "nonbinary",
+    "relationship": "seeker",
+    "traditions": [
+      "norse",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q072",
+    "quandary_theme": "displacement",
+    "motif": "relationships",
+    "quandary": "I feel torn between the needs of my own community and the needs of a stranger from far away. Is it wrong to put my own people first?",
+    "expected_references": {
+      "norse": [
+        "Havamal 43-44",
+        "Havamal 119"
+      ],
+      "buddhist": [
+        "Sigalovada Sutta (DN 31)",
+        "Dhammapada 197-199"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 43-44",
+      "Havamal 119",
+      "Sigalovada Sutta (DN 31)",
+      "Dhammapada 197-199"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T073",
+    "profile_id": "P06",
+    "age": 87,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "taoist"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q073",
+    "quandary_theme": "windfall",
+    "motif": "desire",
+    "quandary": "Money has come to me, but it traces back to something I find questionable. Keeping it would help my family. Does where it came from stain what I'd do with it?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 44",
+        "Tao Te Ching 46"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 44",
+      "Tao Te Ching 46"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T074",
+    "profile_id": "P16",
+    "age": 50,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "taoist",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q074",
+    "quandary_theme": "gossip",
+    "motif": "honesty",
+    "quandary": "I know of someone's serious failing. Speaking up might warn others who could be hurt, but it would also expose and shame them. Where does the duty lie?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 81",
+        "Tao Te Ching 8"
+      ],
+      "jewish": [
+        "Talmud, Shabbat 31a",
+        "Leviticus 19:11"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 81",
+      "Tao Te Ching 8",
+      "Talmud, Shabbat 31a",
+      "Leviticus 19:11"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T075",
+    "profile_id": "P01",
+    "age": 92,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "hindu"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q075",
+    "quandary_theme": "humility",
+    "motif": "humility",
+    "quandary": "I've always been the one who gives and provides, and now I'm the one who needs help. Accepting it feels like failure. Why is receiving so much harder than giving?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 13.7-11",
+        "Bhagavad Gita 16.1-3"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 13.7-11",
+      "Bhagavad Gita 16.1-3"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T076",
+    "profile_id": "P26",
+    "age": 84,
+    "gender": "female",
+    "relationship": "disciple",
+    "traditions": [
+      "christian",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q076",
+    "quandary_theme": "temptation",
+    "motif": "desire",
+    "quandary": "There's a real chance to get ahead by quietly compromising a principle I hold. No one would know but me. Is a private compromise still a compromise?",
+    "expected_references": {
+      "christian": [
+        "Matthew 6:19-21",
+        "1 Timothy 6:6-10"
+      ],
+      "taoist": [
+        "Tao Te Ching 44",
+        "Tao Te Ching 46"
+      ]
+    },
+    "expected_references_flat": [
+      "Matthew 6:19-21",
+      "1 Timothy 6:6-10",
+      "Tao Te Ching 44",
+      "Tao Te Ching 46"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T077",
+    "profile_id": "P11",
+    "age": 24,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "norse",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q077",
+    "quandary_theme": "reconciliation",
+    "motif": "forgiveness",
+    "quandary": "I could make the first move toward someone who wronged me and never apologized. Why should I be the one to bend — and would doing so free me or diminish me?",
+    "expected_references": {
+      "norse": [
+        "Havamal 43-46",
+        "Havamal 121-124"
+      ],
+      "teresan": [
+        "Works of mercy (Missionaries of Charity)",
+        "Nobel Lecture (1979)"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 43-46",
+      "Havamal 121-124",
+      "Works of mercy (Missionaries of Charity)",
+      "Nobel Lecture (1979)"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T078",
+    "profile_id": "P10",
+    "age": 45,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "teresan"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q078",
+    "quandary_theme": "duty",
+    "motif": "duty",
+    "quandary": "I'm pulled between caring for an aging parent and a calling I feel I'm meant to pursue. Both feel like sacred duties and I cannot do both fully. How do I choose?",
+    "expected_references": {
+      "teresan": [
+        "Vocation of charity (Missionaries of Charity)",
+        "Wholehearted service"
+      ]
+    },
+    "expected_references_flat": [
+      "Vocation of charity (Missionaries of Charity)",
+      "Wholehearted service"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T079",
+    "profile_id": "P13",
+    "age": 35,
+    "gender": "transgender",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "norse"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q079",
+    "quandary_theme": "vocation",
+    "motif": "duty",
+    "quandary": "I could leave a stable, secure life for uncertain work that feels far more meaningful. Is choosing meaning over security brave or just reckless?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.47",
+        "Bhagavad Gita 3.19-21"
+      ],
+      "norse": [
+        "Havamal 76-77",
+        "Gylfaginning (Prose Edda) 51"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.47",
+      "Bhagavad Gita 3.19-21",
+      "Havamal 76-77",
+      "Gylfaginning (Prose Edda) 51"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T080",
+    "profile_id": "P24",
+    "age": 94,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q080",
+    "quandary_theme": "marriage",
+    "motif": "relationships",
+    "quandary": "I'm being asked to commit fully to someone despite real doubts I can't quite name. Do I trust the doubts or trust the love?",
+    "expected_references": {
+      "jewish": [
+        "Ruth 1:16-17",
+        "Exodus 20:12"
+      ],
+      "aboriginal": [
+        "Kinship and skin systems",
+        "Obligations to Elders and kin"
+      ]
+    },
+    "expected_references_flat": [
+      "Ruth 1:16-17",
+      "Exodus 20:12",
+      "Kinship and skin systems",
+      "Obligations to Elders and kin"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T081",
+    "profile_id": "P18",
+    "age": 46,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q081",
+    "quandary_theme": "parenting",
+    "motif": "relationships",
+    "quandary": "I want to raise my child within my own tradition, but I also want them to choose freely. Is passing on my faith a gift or an imposition?",
+    "expected_references": {
+      "buddhist": [
+        "Sigalovada Sutta (DN 31)",
+        "Dhammapada 197-199"
+      ],
+      "teresan": [
+        "Love begins at home",
+        "Tenderness toward the unwanted"
+      ]
+    },
+    "expected_references_flat": [
+      "Sigalovada Sutta (DN 31)",
+      "Dhammapada 197-199",
+      "Love begins at home",
+      "Tenderness toward the unwanted"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T082",
+    "profile_id": "P15",
+    "age": 30,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "christian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q082",
+    "quandary_theme": "vocation",
+    "motif": "duty",
+    "quandary": "I've spent years building something I no longer believe in. Walking away would waste all of it and disrupt people who depend on me. Is it ever too late to change course honestly?",
+    "expected_references": {
+      "christian": [
+        "Colossians 3:23",
+        "Luke 9:62"
+      ],
+      "norse": [
+        "Havamal 76-77",
+        "Gylfaginning (Prose Edda) 51"
+      ]
+    },
+    "expected_references_flat": [
+      "Colossians 3:23",
+      "Luke 9:62",
+      "Havamal 76-77",
+      "Gylfaginning (Prose Edda) 51"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T083",
+    "profile_id": "P19",
+    "age": 106,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "gandhian",
+      "norse"
+    ],
+    "tradition_names": [
+      "Gandhian thought",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q083",
+    "quandary_theme": "reconciliation",
+    "motif": "forgiveness",
+    "quandary": "A sibling and I haven't spoken in years, and the silence has hardened into habit. Someone has to bend first. Why shouldn't it be me?",
+    "expected_references": {
+      "gandhian": [
+        "Ahimsa (Hind Swaraj)",
+        "Forgiveness as the attribute of the strong"
+      ],
+      "norse": [
+        "Havamal 43-46",
+        "Havamal 121-124"
+      ]
+    },
+    "expected_references_flat": [
+      "Ahimsa (Hind Swaraj)",
+      "Forgiveness as the attribute of the strong",
+      "Havamal 43-46",
+      "Havamal 121-124"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T084",
+    "profile_id": "P27",
+    "age": 48,
+    "gender": "female",
+    "relationship": "novice",
+    "traditions": [
+      "hindu",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q084",
+    "quandary_theme": "legacy",
+    "motif": "identity",
+    "quandary": "I've reached a point where I'm asking what I actually want to have stood for — and whether the way I'm living now reflects it at all. Where do I even begin?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.20",
+        "Bhagavad Gita 18.63"
+      ],
+      "taoist": [
+        "Tao Te Ching 71",
+        "Tao Te Ching 33"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.20",
+      "Bhagavad Gita 18.63",
+      "Tao Te Ching 71",
+      "Tao Te Ching 33"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T085",
+    "profile_id": "P14",
+    "age": 50,
+    "gender": "male",
+    "relationship": "disciple",
+    "traditions": [
+      "jewish",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q085",
+    "quandary_theme": "forgiveness",
+    "motif": "forgiveness",
+    "quandary": "I've carried resentment toward someone for most of my adult life, and they will never apologize. They may never even know. Can I let it go for my own sake without it being a kind of surrender?",
+    "expected_references": {
+      "jewish": [
+        "Talmud, Yoma 87a",
+        "Leviticus 19:18"
+      ],
+      "buddhist": [
+        "Dhammapada 3-5",
+        "Dhammapada 223"
+      ]
+    },
+    "expected_references_flat": [
+      "Talmud, Yoma 87a",
+      "Leviticus 19:18",
+      "Dhammapada 3-5",
+      "Dhammapada 223"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T086",
+    "profile_id": "P17",
+    "age": 42,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "aboriginal",
+      "islamic"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings",
+      "Islam (Qur'an)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q086",
+    "quandary_theme": "betrayal",
+    "motif": "forgiveness",
+    "quandary": "A partner was unfaithful, and I'm torn between the work of rebuilding and the dignity of leaving. How do I tell whether staying is love or fear?",
+    "expected_references": {
+      "aboriginal": [
+        "Kinship law and restitution",
+        "Reciprocity and care for Country"
+      ],
+      "islamic": [
+        "Qur'an 24:22",
+        "Qur'an 42:40"
+      ]
+    },
+    "expected_references_flat": [
+      "Kinship law and restitution",
+      "Reciprocity and care for Country",
+      "Qur'an 24:22",
+      "Qur'an 42:40"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T087",
+    "profile_id": "P23",
+    "age": 87,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "islamic",
+      "norse"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q087",
+    "quandary_theme": "ambition",
+    "motif": "desire",
+    "quandary": "Success came, but it cost me the people I love. Now I have what I chased and not who I cherished. How do I reorder a life I built backwards?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 57:20",
+        "Qur'an 89:27-30"
+      ],
+      "norse": [
+        "Havamal 10-11",
+        "Havamal 75"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 57:20",
+      "Qur'an 89:27-30",
+      "Havamal 10-11",
+      "Havamal 75"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T088",
+    "profile_id": "P02",
+    "age": 43,
+    "gender": "transgender",
+    "relationship": "seeker",
+    "traditions": [
+      "jewish"
+    ],
+    "tradition_names": [
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q088",
+    "quandary_theme": "grief",
+    "motif": "grief",
+    "quandary": "Someone central to my life is gone, and the faith that used to comfort me now feels hollow. Is doubt a betrayal of my tradition, or part of it?",
+    "expected_references": {
+      "jewish": [
+        "Job 1:21",
+        "Psalm 23"
+      ]
+    },
+    "expected_references_flat": [
+      "Job 1:21",
+      "Psalm 23"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T089",
+    "profile_id": "P07",
+    "age": 102,
+    "gender": "nonbinary",
+    "relationship": "disciple",
+    "traditions": [
+      "norse"
+    ],
+    "tradition_names": [
+      "Norse (Prose Edda)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q089",
+    "quandary_theme": "mortality",
+    "motif": "grief",
+    "quandary": "I'm beginning to feel my own decline, and I keep counting the things I never did. How do I make peace with a life that's more behind me than ahead?",
+    "expected_references": {
+      "norse": [
+        "Havamal 70-71",
+        "Havamal 76-77"
+      ]
+    },
+    "expected_references_flat": [
+      "Havamal 70-71",
+      "Havamal 76-77"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T090",
+    "profile_id": "P29",
+    "age": 82,
+    "gender": "male",
+    "relationship": "practitioner",
+    "traditions": [
+      "buddhist",
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Buddhism (Dharma)",
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q090",
+    "quandary_theme": "estrangement",
+    "motif": "grief",
+    "quandary": "An adult child has cut me off, and I don't fully understand why. Do I keep reaching out and risk more rejection, or honor the distance they've asked for?",
+    "expected_references": {
+      "buddhist": [
+        "Dhammapada 277-279",
+        "Dhammapada 287"
+      ],
+      "aboriginal": [
+        "Sorry business and mourning law",
+        "Connection to ancestors and Country"
+      ]
+    },
+    "expected_references_flat": [
+      "Dhammapada 277-279",
+      "Dhammapada 287",
+      "Sorry business and mourning law",
+      "Connection to ancestors and Country"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T091",
+    "profile_id": "P05",
+    "age": 108,
+    "gender": "male",
+    "relationship": "novice",
+    "traditions": [
+      "christian"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q091",
+    "quandary_theme": "regret",
+    "motif": "forgiveness",
+    "quandary": "A choice I made decades ago still haunts me. I've changed since, but the harm was real. How do I forgive myself for something I can't undo?",
+    "expected_references": {
+      "christian": [
+        "Matthew 18:21-22",
+        "Colossians 3:13"
+      ]
+    },
+    "expected_references_flat": [
+      "Matthew 18:21-22",
+      "Colossians 3:13"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T092",
+    "profile_id": "P12",
+    "age": 83,
+    "gender": "nonbinary",
+    "relationship": "novice",
+    "traditions": [
+      "islamic",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Islam (Qur'an)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q092",
+    "quandary_theme": "caregiving",
+    "motif": "compassion",
+    "quandary": "Caring for a dying spouse is slowly breaking me, and I feel guilty even admitting it. Is it a betrayal of love to say I need help?",
+    "expected_references": {
+      "islamic": [
+        "Qur'an 2:177",
+        "Qur'an 76:8-9"
+      ],
+      "taoist": [
+        "Tao Te Ching 67",
+        "Tao Te Ching 8"
+      ]
+    },
+    "expected_references_flat": [
+      "Qur'an 2:177",
+      "Qur'an 76:8-9",
+      "Tao Te Ching 67",
+      "Tao Te Ching 8"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T093",
+    "profile_id": "P16",
+    "age": 50,
+    "gender": "female",
+    "relationship": "seeker",
+    "traditions": [
+      "taoist",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Taoism (Tao Te Ching)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q093",
+    "quandary_theme": "legacy",
+    "motif": "identity",
+    "quandary": "Looking back, I made a serious choice that hurt people, and I've changed since. Can a person who did real wrong still be considered good, and how do I make peace with my past?",
+    "expected_references": {
+      "taoist": [
+        "Tao Te Ching 71",
+        "Tao Te Ching 33"
+      ],
+      "jewish": [
+        "Genesis 32:24-30",
+        "Pirkei Avot 2:5"
+      ]
+    },
+    "expected_references_flat": [
+      "Tao Te Ching 71",
+      "Tao Te Ching 33",
+      "Genesis 32:24-30",
+      "Pirkei Avot 2:5"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T094",
+    "profile_id": "P08",
+    "age": 59,
+    "gender": "transgender",
+    "relationship": "novice",
+    "traditions": [
+      "aboriginal"
+    ],
+    "tradition_names": [
+      "Aboriginal teachings"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q094",
+    "quandary_theme": "fairness",
+    "motif": "justice",
+    "quandary": "I have to divide what I've built among people who will each feel it's unfair. There may be no truly even answer. How do I act justly when someone will be hurt either way?",
+    "expected_references": {
+      "aboriginal": [
+        "Customary law (the Dreaming)",
+        "Reciprocity and obligation"
+      ]
+    },
+    "expected_references_flat": [
+      "Customary law (the Dreaming)",
+      "Reciprocity and obligation"
+    ],
+    "thematic_reference_traditions": [
+      "aboriginal"
+    ]
+  },
+  {
+    "case_id": "T095",
+    "profile_id": "P09",
+    "age": 68,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "gandhian"
+    ],
+    "tradition_names": [
+      "Gandhian thought"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q095",
+    "quandary_theme": "meaning",
+    "motif": "identity",
+    "quandary": "The work that gave my days their shape is over, and my sense of purpose left with it. Who am I now, and how do I begin again?",
+    "expected_references": {
+      "gandhian": [
+        "Conscience over authority (Hind Swaraj)",
+        "Inner voice / antaryamin"
+      ]
+    },
+    "expected_references_flat": [
+      "Conscience over authority (Hind Swaraj)",
+      "Inner voice / antaryamin"
+    ],
+    "thematic_reference_traditions": [
+      "gandhian"
+    ]
+  },
+  {
+    "case_id": "T096",
+    "profile_id": "P22",
+    "age": 58,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "christian",
+      "buddhist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Buddhism (Dharma)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q096",
+    "quandary_theme": "repentance",
+    "motif": "forgiveness",
+    "quandary": "I want to make amends to someone I wronged long ago, but reopening it might serve me more than them. Do I have the right to seek peace at their expense?",
+    "expected_references": {
+      "christian": [
+        "Matthew 18:21-22",
+        "Colossians 3:13"
+      ],
+      "buddhist": [
+        "Dhammapada 3-5",
+        "Dhammapada 223"
+      ]
+    },
+    "expected_references_flat": [
+      "Matthew 18:21-22",
+      "Colossians 3:13",
+      "Dhammapada 3-5",
+      "Dhammapada 223"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T097",
+    "profile_id": "P20",
+    "age": 100,
+    "gender": "nonbinary",
+    "relationship": "practitioner",
+    "traditions": [
+      "hindu",
+      "teresan"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)",
+      "Missionaries of Charity (Mother Teresa)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q097",
+    "quandary_theme": "mortality",
+    "motif": "grief",
+    "quandary": "I want to face my own death without fear, but I don't know how. What does my tradition ask of me in meeting the end with grace?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.13",
+        "Bhagavad Gita 2.22-27"
+      ],
+      "teresan": [
+        "Accompanying the dying (Nirmal Hriday)",
+        "Consolation in suffering"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.13",
+      "Bhagavad Gita 2.22-27",
+      "Accompanying the dying (Nirmal Hriday)",
+      "Consolation in suffering"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T098",
+    "profile_id": "P30",
+    "age": 91,
+    "gender": "male",
+    "relationship": "seeker",
+    "traditions": [
+      "teresan",
+      "jewish"
+    ],
+    "tradition_names": [
+      "Missionaries of Charity (Mother Teresa)",
+      "Judaism (Talmud)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q098",
+    "quandary_theme": "wisdom",
+    "motif": "identity",
+    "quandary": "I've learned hard lessons I could pass on, but unasked-for advice often does more harm than good. When do I speak, and when do I hold my peace?",
+    "expected_references": {
+      "teresan": [
+        "Serving Christ in the distressing disguise of the poor",
+        "Vocation of charity"
+      ],
+      "jewish": [
+        "Genesis 32:24-30",
+        "Pirkei Avot 2:5"
+      ]
+    },
+    "expected_references_flat": [
+      "Serving Christ in the distressing disguise of the poor",
+      "Vocation of charity",
+      "Genesis 32:24-30",
+      "Pirkei Avot 2:5"
+    ],
+    "thematic_reference_traditions": [
+      "teresan"
+    ]
+  },
+  {
+    "case_id": "T099",
+    "profile_id": "P26",
+    "age": 84,
+    "gender": "female",
+    "relationship": "disciple",
+    "traditions": [
+      "christian",
+      "taoist"
+    ],
+    "tradition_names": [
+      "Christianity (Bible)",
+      "Taoism (Tao Te Ching)"
+    ],
+    "tradition_type": "dual_unlikely",
+    "quandary_id": "Q099",
+    "quandary_theme": "surrender",
+    "motif": "identity",
+    "quandary": "I keep trying to steer the choices of people I love, and it's straining us. How do I let go of control without feeling I've abandoned them?",
+    "expected_references": {
+      "christian": [
+        "Mark 9:24",
+        "John 20:24-29"
+      ],
+      "taoist": [
+        "Tao Te Ching 71",
+        "Tao Te Ching 33"
+      ]
+    },
+    "expected_references_flat": [
+      "Mark 9:24",
+      "John 20:24-29",
+      "Tao Te Ching 71",
+      "Tao Te Ching 33"
+    ],
+    "thematic_reference_traditions": []
+  },
+  {
+    "case_id": "T100",
+    "profile_id": "P01",
+    "age": 92,
+    "gender": "transgender",
+    "relationship": "disciple",
+    "traditions": [
+      "hindu"
+    ],
+    "tradition_names": [
+      "Hinduism (Vedas / Bhagavad Gita)"
+    ],
+    "tradition_type": "single",
+    "quandary_id": "Q100",
+    "quandary_theme": "acceptance",
+    "motif": "grief",
+    "quandary": "My life didn't unfold the way I once hoped. How do I make genuine peace with that, rather than just resigning myself to it?",
+    "expected_references": {
+      "hindu": [
+        "Bhagavad Gita 2.13",
+        "Bhagavad Gita 2.22-27"
+      ]
+    },
+    "expected_references_flat": [
+      "Bhagavad Gita 2.13",
+      "Bhagavad Gita 2.22-27"
+    ],
+    "thematic_reference_traditions": []
+  }
+]
