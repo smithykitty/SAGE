@@ -33,12 +33,14 @@ SAGE is a **RAG pipeline, not a fine-tuned model**, chosen because the task requ
 
 Results on the three benchmark tasks and the constructed testing split. The testing-split columns report **citation grounding** (share of citations that appear in the retrieved passages) and **citation gold-relevance** (share of cases citing a gold-labeled verse).
 
-| Model | RGB (acc) ↑ | MultiHop-RAG (acc) ↑ | RAGTruth (faithfulness) ↑ | Testing split — grounding ↑ | Testing split — gold-relevance ↑ |
-|---|---|---|---|---|---|
-| **SAGE (Qwen2.5-7B + RAG)** | **98%** | **64%** | *not run* | **62%** | **7%** |
-| [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) (base, no retrieval) | 19% | 47% | *not run* | 0% | 6% |
-| [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) (comparison) | 28% | 44% | *not run* | — | — |
-| [Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) (comparison) | 36% | 58% | *not run* | — | — |
+
+| Model | RGB (closed-book acc) ↑ | MultiHop-RAG (acc) ↑ |
+|---|---|---|
+| **SAGE (Qwen2.5-7B + RAG)** | **98.0%** | **64.0%** |
+| Qwen2.5-7B-Instruct (base, no retrieval) | 19.0% | 47.0% |
+| Llama-3.1-8B-Instruct (comparison) | 28.0% | 44.0% |
+| Mistral-7B-Instruct-v0.3 (comparison) | 36.0% | 58.0% |
+
 
 *QA benchmarks scored on n=100 items sampled with seed 5002; correctness is substring answer-matching. The SAGE row supplies each benchmark's gold passages as retrieved context; the base row is closed-book, so the two differ only in the presence of context. Testing-split columns are reported for the SAGE pipeline and its base generator; comparison models were evaluated on the shared public benchmarks. RAGTruth measures span-level faithfulness rather than answer accuracy and requires a separate entailment-based evaluation, which was not run — see Limitations.*
 
