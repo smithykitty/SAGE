@@ -10,6 +10,7 @@ tags:
 language:
   - en
 ---
+![SAGE Universal Guidance](images/SAGE%20Universal%20Guidance.png)
 
 # SAGE: Sacred Alchemy & Guidance Engine
 
